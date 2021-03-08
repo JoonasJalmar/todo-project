@@ -12,7 +12,7 @@ Web todo application where user can add and edit tasks to do and give priorities
 - App uses mysql2 database that is created and handled with nodejs Sequelize library.
 Data to insert is: title (string), priority(string), status(boolean). Additional content includes automatically created: id(int), createdAt(datetime) and updatedAt(datetime).
 
-- To insert data for testing you can use: `INSERT INTO todos (title,priority,status) Values ("kauppareissu",4,false)
+- To insert data for testing you can use: `INSERT INTO todos (title,priority,status) Values ("kauppareissu",4,false)`
 
 ## What the app looks like
 
